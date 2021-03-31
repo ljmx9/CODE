@@ -2,7 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.idea" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CODE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Github远仓" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Github远仓/CODE" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/openclass" vcs="Git" />
   </component>
 </project>
